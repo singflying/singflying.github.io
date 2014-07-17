@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://singflying.github.io/atom.xml" rel="self"/>
   <link href="http://singflying.github.io/"/>
-  <updated>2014-07-17T16:10:34+08:00</updated>
+  <updated>2014-07-17T16:30:46+08:00</updated>
   <id>http://singflying.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://singflying.github.io/blog/2014/07/17/second-post/"/>
+    <updated>2014-07-17T16:28:09+08:00</updated>
+    <id>http://singflying.github.io/blog/2014/07/17/second-post</id>
+    <content type="html"><![CDATA[<h1>second post</h1>
+
+<p>def hello
+  puts &ldquo;hello&rdquo;
+end</p>
+
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://singflying.github.io/blog/2014/07/17/first-post/"/>
+    <updated>2014-07-17T16:16:43+08:00</updated>
+    <id>http://singflying.github.io/blog/2014/07/17/first-post</id>
+    <content type="html"><![CDATA[<h1>hello singflying</h1>
+
+<blockquote><p>I write this essay just to test if the cotopress works OK.</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
